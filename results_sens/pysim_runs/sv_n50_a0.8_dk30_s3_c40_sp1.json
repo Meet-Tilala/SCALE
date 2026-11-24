@@ -1,0 +1,1 @@
+{"success_ratio": 0.7259318340760263, "success_volume": 0.360360014390061, "completed": 125600, "arrived": 173019, "avg_hops_used": 1.9270859872611465, "tag": "sv_n50_a0.8_dk30_s3_c40_sp1", "method": "sv", "n": 50, "seed": 3, "alpha": 0.8, "dk": 30, "scheme": "sp1", "mean_cap": 40.0, "scale": 1.0, "dag_pct": 0, "hold": 1.0, "runtime_s": 0.8587191104888916}

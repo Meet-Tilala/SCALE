@@ -1,0 +1,1 @@
+{"success_ratio": 0.4016183235994649, "success_volume": 0.1008770539645127, "completed": 61546, "arrived": 153245, "avg_hops_used": 1.908328729730608, "tag": "greedy_central_n50_a0.5_dkNone_s5_c5_sp1", "method": "greedy_central", "n": 50, "seed": 5, "alpha": 0.5, "dk": null, "scheme": "sp1", "mean_cap": 5, "scale": 1.0, "dag_pct": 0, "hold": 1.0, "runtime_s": 0.5110282897949219}

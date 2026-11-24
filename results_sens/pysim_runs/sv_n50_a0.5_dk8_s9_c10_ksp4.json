@@ -1,0 +1,1 @@
+{"success_ratio": 0.638179756053883, "success_volume": 0.19543066334583764, "completed": 96219, "arrived": 150771, "avg_hops_used": 2.7598914975212794, "tag": "sv_n50_a0.5_dk8_s9_c10_ksp4", "method": "sv", "n": 50, "seed": 9, "alpha": 0.5, "dk": 8, "scheme": "ksp4", "mean_cap": 10.0, "scale": 1.0, "dag_pct": 0, "hold": 1.0, "runtime_s": 1.2053248882293701}

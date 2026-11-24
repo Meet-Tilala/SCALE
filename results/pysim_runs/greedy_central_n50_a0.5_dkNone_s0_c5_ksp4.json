@@ -1,0 +1,1 @@
+{"success_ratio": 0.605952772749712, "success_volume": 0.1673989866838041, "completed": 29459, "arrived": 48616, "avg_hops_used": 1.9745748328184936, "tag": "greedy_central_n50_a0.5_dkNone_s0_c5_ksp4", "method": "greedy_central", "n": 50, "seed": 0, "alpha": 0.5, "dk": null, "scheme": "ksp4", "mean_cap": 5, "scale": 1.0, "dag_pct": 0, "hold": 1.0, "runtime_s": 0.3047795295715332}

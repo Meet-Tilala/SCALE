@@ -1,0 +1,1 @@
+{"success_ratio": 0.7975128960943257, "success_volume": 0.37694260980170874, "completed": 129867, "arrived": 162840, "avg_hops_used": 3.4413669369431803, "tag": "min_degree_n50_aNone_dkNone_s4_c40_ksp4", "method": "min_degree", "n": 50, "seed": 4, "alpha": null, "dk": null, "scheme": "ksp4", "mean_cap": 40, "scale": 1.0, "dag_pct": 0, "hold": 1.0, "runtime_s": 1.2182416915893555}

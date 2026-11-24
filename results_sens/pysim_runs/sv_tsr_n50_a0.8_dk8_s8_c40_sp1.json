@@ -1,0 +1,1 @@
+{"success_ratio": 0.7136636517426912, "success_volume": 0.36184663858864624, "completed": 116856, "arrived": 163741, "avg_hops_used": 2.4858714999657696, "tag": "sv_tsr_n50_a0.8_dk8_s8_c40_sp1", "method": "sv_tsr", "n": 50, "seed": 8, "alpha": 0.8, "dk": 8, "scheme": "sp1", "mean_cap": 40.0, "scale": 1.0, "dag_pct": 0, "hold": 1.0, "runtime_s": 0.8623826503753662}

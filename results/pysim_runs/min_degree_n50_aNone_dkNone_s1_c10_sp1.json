@@ -1,0 +1,1 @@
+{"success_ratio": 0.2971252424929214, "success_volume": 0.06850495476085479, "completed": 47327, "arrived": 159283, "avg_hops_used": 3.03285650896951, "tag": "min_degree_n50_aNone_dkNone_s1_c10_sp1", "method": "min_degree", "n": 50, "seed": 1, "alpha": null, "dk": null, "scheme": "sp1", "mean_cap": 10, "scale": 1.0, "dag_pct": 0, "hold": 1.0, "runtime_s": 0.563913106918335}

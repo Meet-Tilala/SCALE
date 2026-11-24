@@ -1,0 +1,6 @@
+numpy
+pandas
+networkx>=2.6
+matplotlib
+scipy
+tabulate
